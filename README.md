@@ -20,6 +20,7 @@ Usable, but still a work in progress.
 
 * VIP subjects
 * VIP domains
+* Multiple accounts per instance
 
 ## Contributing to baconmail
 

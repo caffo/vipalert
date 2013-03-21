@@ -11,6 +11,11 @@ Usable, but still a work in progress.
 * Edit the config.yaml file and add your twillo info and VIP email address
 * run vip_alert.rb thru a cron job. I have mine set to run every 5 minutes
 
+## Requirements
+
+* Gmail 
+* Twillo
+
 ## Planned features
 
 * VIP subjects

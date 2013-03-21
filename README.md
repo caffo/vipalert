@@ -1,7 +1,8 @@
 # ★  vip_alert.rb (wip)
 
 VipAlert is a ruby script that uses twillo to send you a text message when a message from someone important arrives in your gmail inbox. Poor man alternative to [Awayfind](https://www.awayfind.com/).
-Right now its usable, but still a work in progress.
+
+Usable, but still a work in progress.
 
 ## Installation instructions
 

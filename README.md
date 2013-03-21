@@ -1,4 +1,4 @@
-# vip_alert.rb (wip)
+# ★  vip_alert.rb (wip)
 
 VipAlert is a ruby script that uses twillo to send you a text message when a message from someone important arrives in your gmail inbox. 
 Right now its usable, but still a work in progress.

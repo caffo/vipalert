@@ -1,0 +1,15 @@
+account:
+  email: user@domain.com
+  password: passw0rd
+  phone:  "+11323043375"
+  
+
+  twillo_sid:  0c902d5687ef444fdb101503a819501eCA
+  twillo_token: ab257e4dddef60715d5ddd4ea8a831de
+  twillo_phone: 12296073051
+  
+vips:
+  emails:
+    - boss@company.com
+    - mom@aol.com
+    - butcher@market.com
